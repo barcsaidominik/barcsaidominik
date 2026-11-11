@@ -16,10 +16,10 @@ I mostly work on backend services: microservices with RabbitMQ and MassTransit, 
 
 ### Tech I use
 
-**Backend:** C#, .NET, ASP.NET Core, EF Core, Dapper, T-SQL, gRPC, Quartz.NET, SignalR
-**Messaging:** RabbitMQ, ActiveMQ, MassTransit
-**Frontend:** Angular, TypeScript
-**DevOps and security:** Azure DevOps Pipelines, GitHub Actions, Docker, Semgrep, SonarQube, Gitleaks
+- **Backend:** C#, .NET, ASP.NET Core, EF Core, Dapper, T-SQL, gRPC, Quartz.NET, SignalR
+- **Messaging:** RabbitMQ, ActiveMQ, MassTransit
+- **Frontend:** Angular, TypeScript
+- **DevOps and security:** Azure DevOps Pipelines, GitHub Actions, Docker, Semgrep, SonarQube, Gitleaks
 
 ### How I work with AI
 
